@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cernical
-- 👀 I’m interested in Command line Games
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in CMD games and apps
+- 🌱 I’m currently learning Python and RISC-V Assembly
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
