@@ -1,6 +1,6 @@
 | Description   |               |
 | ------------- |:-------------:|
-| - 👋 Hi, I’m @Cernical <br>- 👀 I’m interested in CMD games and apps</br>- 🌱 I’m currently learning Python and RISC-V Assembly | right-aligned |
+| - 👋 Hi, I’m @Cernical <br>- 👀 I’m interested in CMD games and apps</br>- 🌱 I’m currently learning Python and RISC-V Assembly | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cernical)](https://github.com/anuraghazra/github-readme-stats) |
 
 <h2>Languages:</h2>
 
