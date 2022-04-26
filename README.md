@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Cernical
-- 👀 I’m interested in CMD games and apps
-- 🌱 I’m currently learning Python and RISC-V Assembly
-
 | Description   |               |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
+| - 👋 Hi, I’m @Cernical
+- 👀 I’m interested in CMD games and apps
+- 🌱 I’m currently learning Python and RISC-V Assembly      | right-aligned |
 
 <h2>Languages:</h2>
 
