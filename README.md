@@ -1,6 +1,6 @@
 | Description   |               |
 | ------------- |:-------------:|
-| - 👋 Hi, I’m @Cernical <br>- 👀 I’m interested in CMD games and apps</br> | right-aligned |
+| - 👋 Hi, I’m @Cernical <br>- 👀 I’m interested in CMD games and apps</br><br>- 🌱 I’m currently learning Python and RISC-V Assembly</br> | right-aligned |
 
 <h2>Languages:</h2>
 
