@@ -10,7 +10,7 @@
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) &ensp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cernical&layout=compact&theme=algolia&card_width=100) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cernical&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cernical&layout=compact&theme=algolia&card_width=200) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cernical&theme=algolia&show_icons=true)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
