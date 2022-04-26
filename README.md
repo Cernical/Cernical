@@ -2,11 +2,11 @@
 - 👀 I’m interested in CMD games and apps
 - 🌱 I’m currently learning Python and RISC-V Assembly
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Description   |               |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
 <h2>Languages:</h2>
 
