@@ -12,8 +12,6 @@
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cernical&layout=compact&theme=algolia&card_width=280)  | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cernical&theme=algolia&show_icons=true) |
 | :-----------: | :-----------: |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 <!---
 - 💞️ I’m looking to collaborate on ...
