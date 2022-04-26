@@ -2,7 +2,7 @@
 - 👀 I’m interested in CMD games and apps
 - 🌱 I’m currently learning Python and RISC-V Assembly
 
-OS:&ensp;&ensp;![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+OS: &ensp;&ensp;&ensp; ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
