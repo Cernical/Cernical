@@ -10,8 +10,6 @@
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) &ensp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cernical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
