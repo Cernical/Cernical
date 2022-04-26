@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and RISC-V Assembly
 
 <h2>Languages:</h2>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Assembly-RISC--V-yellow?style=for-the-badge&logo=atom) &ensp;
+<p>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Assembly-RISC--V-yellow?style=for-the-badge&logo=atom) &ensp;</p>
 
 <h2>|OS:</h2>
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) &ensp;
